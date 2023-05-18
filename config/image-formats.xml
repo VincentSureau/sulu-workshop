@@ -16,6 +16,15 @@
     </format>
     -->
 
+    <format key="x400">
+        <meta>
+            <title lang="en">Header image</title>
+            <title lang="de">Header image de</title>
+        </meta>
+
+        <scale y="400"/>
+    </format>
+    
     <format key="1920x">
         <meta>
             <title lang="en">Event image</title>

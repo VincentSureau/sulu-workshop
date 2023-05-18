@@ -49,5 +49,15 @@
                 <title lang="de">Veranstaltungs Highlights</title>
             </meta>
         </property>
+
+        <property name="headerImage" type="single_media_selection">
+            <meta>
+                <title lang="en">Image header</title>
+                <title lang="de">Image header de</title>
+            </meta>
+            <params>
+                <param name="types" value="image"/>
+            </params>
+        </property>
     </properties>
 </template>
